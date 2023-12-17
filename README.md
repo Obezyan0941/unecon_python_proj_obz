@@ -1,7 +1,5 @@
-# unecon_python_proj_obz
-Итоговый проект для курса по Python в СПБГЭУ
 # Название проекта
-Нейросетевой прогноз охлаждения
+Нейросетевой прогноз охлаждения. Итоговый проект для курса по Python в СПБГЭУ
 ### Ссылка на Colab
 https://colab.research.google.com/drive/1n12ROxQuYwmVhqlyliiFkAjMYmnxwdUb?usp=sharing
 
